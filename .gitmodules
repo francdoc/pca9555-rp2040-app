@@ -1,0 +1,3 @@
+[submodule "pca9555"]
+	path = pca9555
+	url = https://github.com/francdoc/pca9555.git
